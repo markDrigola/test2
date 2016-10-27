@@ -1,4 +1,3 @@
-dsfsdfvsfvvad
-fadfcsdvsdvsvsdvsdvsdv
-sdvsdvsdvsdv
-sdvssdsdvs
+function test(){
+    alert(123);
+}
