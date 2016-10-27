@@ -1,4 +1,2 @@
-dsfsdfvsfvvad
-fadfcsdvsdvsvsdvsdvsdv
-sdvsdvsdvsdv
-sdvssdsdvs
+alert();
+prompt();
